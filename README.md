@@ -25,11 +25,11 @@ spec:
   - name: identityProjectId
     value: dascs-lab
   - name: privateKeyId
-    value: c0373af08aa9ae30d104841258fd1bbad3aafbc5
+    value: c0373af08aa9ae30d104841
   - name: clientEmail
-    value: pubsub-admin-sa@dascs-lab.iam.gserviceaccount.com
+    value: pubsub-admin-sa@lab.iam.gserviceaccount.com
   - name: clientId
-    value: 114164415105170895401
+    value: 1141644151051
   - name: authUri
     value: https://accounts.google.com/o/oauth2/auth
   - name: tokenUri
@@ -37,7 +37,7 @@ spec:
   - name: authProviderX509CertUrl
     value: https://www.googleapis.com/oauth2/v1/certs
   - name: clientX509CertUrl
-    value: https://www.googleapis.com/robot/v1/metadata/x509/dascs-lab.iam.gserviceaccount.com #replace PROJECT_NAME
+    value: https://www.googleapis.com/robot/v1/metadata/x509/lab.iam.gserviceaccount.com 
   - name: privateKey
     value: "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDEQh...su0xJw==\n-----END PRIVATE KEY-----\n"
   - name: disableEntityManagement
